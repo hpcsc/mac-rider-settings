@@ -1,0 +1,14 @@
+<keymap version="1" name="Mac OS X 10.5+ Customized" parent="Mac OS X 10.5+">
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="RiderUnitTestShowExplorerAction">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+</keymap>
